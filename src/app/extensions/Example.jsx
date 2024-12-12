@@ -33,7 +33,7 @@ const Extension = ({ context, runServerless, sendAlert }) => {
     <>
       <Text>
         <Text format={{ fontWeight: "bold" }}>
-          Your first UI extension is ready!
+          Your first UI extension is ready!!
         </Text>
         Congratulations, {context.user.firstName}! You just deployed your first
         HubSpot UI extension. This example demonstrates how you would send
